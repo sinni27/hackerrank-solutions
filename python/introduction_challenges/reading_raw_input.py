@@ -1,3 +1,3 @@
-#Reading_Raw_Input
+#Reading Raw Input
 num = input()
 print(num)
