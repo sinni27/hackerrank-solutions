@@ -1,0 +1,3 @@
+#Reading_Raw_Input
+num = input()
+print(num)
