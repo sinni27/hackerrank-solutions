@@ -1,0 +1,7 @@
+#Python Division
+a = int(input())
+b = int(input())
+res = a//b
+ses = a/b
+print(res)
+print(ses)
